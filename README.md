@@ -34,25 +34,39 @@ Bandwidth calculation from s-parameter in quater wave line=1.33 GhzFrequency=2.4
 <img width="389" height="409" alt="image" src="https://github.com/user-attachments/assets/8414d20f-3408-447e-a206-6eded6e11d5a" />
 
 ## S-Parameter (S11) Return Loss Characteristics:
-<img width="1551" height="661" alt="image" src="https://github.com/user-attachments/assets/b5aff3e1-2a39-40f9-84a6-6a3aa950898b" />
+<img width="1597" height="686" alt="image" src="https://github.com/user-attachments/assets/84033d0f-ded9-4073-956a-412ca9abd56e" />
+
 
 ## VSWR Analysis of Microstrip Patch Antenna:
-<img width="1568" height="667" alt="image" src="https://github.com/user-attachments/assets/cf65ba84-29c3-4b6b-a50d-19cc696ea169" />
+<img width="1598" height="675" alt="image" src="https://github.com/user-attachments/assets/cbb074cc-80ef-484f-93e3-fe01a87e5213" />
 
-## Electric Field Distribution of Microstrip Antenna:
-<img width="1565" height="664" alt="image" src="https://github.com/user-attachments/assets/d9d57a67-0858-4c60-a5f3-b1ae96ee1e62" />
 
-## Magnetic Field Distribution of Microstrip Antenna:
-<img width="1572" height="660" alt="image" src="https://github.com/user-attachments/assets/d1a7b2f8-412e-43ac-be7b-e9509ed3c05d" />
+## E-Field Distribution of Microstrip Antenna:
+<img width="1598" height="684" alt="image" src="https://github.com/user-attachments/assets/d8727f0d-9665-4a98-8642-365f84bca540" />
+
+
+## H-Field Distribution of Microstrip Antenna:
+<img width="1596" height="683" alt="image" src="https://github.com/user-attachments/assets/7c26e413-f79d-4f26-a670-e0859e80e309" />
+
+## Surface current of Microstrip Antenna:
+<img width="1597" height="681" alt="image" src="https://github.com/user-attachments/assets/fb972068-a5ee-4322-accb-e3884930528d" />
+
+## 3D Dimentional of Microstrip Antenna:
+<img width="1596" height="684" alt="image" src="https://github.com/user-attachments/assets/29b2c060-9fdd-4cdb-b692-1009a6298e52" />
 
 ## Far-Field Radiation Pattern (Phi = 0°):
-<img width="1564" height="685" alt="image" src="https://github.com/user-attachments/assets/aebf969c-8fdb-497e-90e2-9dfabf244223" />
+<img width="1597" height="688" alt="image" src="https://github.com/user-attachments/assets/18d409a3-daec-472f-9c57-714ba1d1ef27" />
+
 
 ## Far-Field Radiation Pattern (Phi = 90°):
-<img width="1558" height="658" alt="image" src="https://github.com/user-attachments/assets/33155774-6a8d-4cee-b6af-0f20d30fb413" />
+<img width="1598" height="685" alt="image" src="https://github.com/user-attachments/assets/3d3cf468-302e-45a6-b30c-0ccd5132b78a" />
+
+## Far-Field Directivity Pattern (Theta = 0°):
+<img width="1597" height="686" alt="image" src="https://github.com/user-attachments/assets/d355c10b-d262-4977-b9c7-9af734e155d9" />
 
 ## Far-Field Directivity Pattern (Theta = 90°):
-<img width="1568" height="665" alt="image" src="https://github.com/user-attachments/assets/49155cf8-0a03-49ab-b8e5-824f5d45d247" />
+<img width="1598" height="684" alt="image" src="https://github.com/user-attachments/assets/8bdaf767-fc8e-430b-a99e-8901d3d7ac9e" />
+
 
 **Conclusion:**
 
