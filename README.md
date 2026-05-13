@@ -26,6 +26,7 @@ Bandwidth calculation from s-parameter in quater wave line=1.33 GhzFrequency=2.4
 <img width="388" height="413" alt="image" src="https://github.com/user-attachments/assets/75681a16-a471-468a-8396-7b320aa4af86" />
 
 **Microstrip Patch Dimension Setup:**
+
 <img width="389" height="408" alt="image" src="https://github.com/user-attachments/assets/f3b6b3cc-3b5a-42a2-a157-e662445390fc" />
 
 **Substrate Material and Dimension Configuration:**
